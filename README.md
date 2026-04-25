@@ -1,7 +1,7 @@
 # Othello AI Game ⚪⚫
 
 <p align="center">
-  <img src="assets/othello-game.gif" alt="Game Demo" width="600">
+  <img src="assets/othello-game.gif" alt="Game Demo" width="300">
 </p>
 
 A fully playable Othello (Reversi) game featuring a custom graphical interface and an AI opponent. Built with **Python** and the **Pygame** library.
