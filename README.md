@@ -21,3 +21,9 @@ The project implements a computer opponent designed to challenge the player usin
 * **Language:** Python 3.x
 * **Graphics:** Pygame
 
+## How to run
+* **Clone repository:** Clone the project repository on your computer
+* **Install modules:** Open a terminal in the directory with the project and run: **pip install -r requirements.txt** 
+* **Run main file:** **python -m src.main** 
+* **Enjoy playing :)**
+
